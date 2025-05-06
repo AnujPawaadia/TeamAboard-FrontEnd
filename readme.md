@@ -18,7 +18,7 @@ Unlike existing platforms like LinkedIn, Discord, and Upwork—which lack struct
 ---
 
 ## 💻 Role as Frontend Developer (Vue.js)
-As a frontend developer, **Khushi Jain** led the development of responsive and dynamic user interfaces using Vue.js. Responsibilities included:
+As a frontend developer, **I** led the development of responsive and dynamic user interfaces using Vue.js. Responsibilities included:
 
 - Designing and implementing core UI components
 - Ensuring seamless data integration with backend services
