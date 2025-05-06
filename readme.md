@@ -64,10 +64,10 @@ Traditional methods like social media, word-of-mouth, or forums often fall short
 
 **Team Name**: Aboard
 
-| Name         | Roll No         | SAP ID     | Role                      |
-|--------------|------------------|------------|---------------------------|
-| Anuj Pawadia | R2142220311     | 500107126  | Backend Developer (Node.js)  |
-| Khushi Jain  | R2142220336     | 500105912  | Frontend Developer (Vue.js) |
+| Name         |  Role                      |
+|--------------|---------------------------|
+| Khushi Jain | Backend Developer (Node.js)  |
+| Anuj Pawadia   | Frontend Developer (Vue.js) |
 
 **Mentor**: Prof. Hitesh Kumar Sharma  
 **Institution**: CSO Cluster, School of Computer Science (SOCS), UPES, Bidholi Campus, Dehradun
